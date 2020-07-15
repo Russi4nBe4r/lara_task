@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b21e2c58-1cec-42d4-97bc-ef70f7f7c9b9" name="lara">
+        <fileTransfer rootFolder="/var/www/webroot/ROOT" accessType="SFTP" host="gate.jelastic.regruhosting.ru" port="3022" sshConfigId="b5a7c29a-c9e4-4181-8674-7ecc1927a5c6" sshConfig="177035-42818@gate.jelastic.regruhosting.ru:3022 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

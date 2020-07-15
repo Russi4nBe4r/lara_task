@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="gate.jelastic.regruhosting.ru" id="b5a7c29a-c9e4-4181-8674-7ecc1927a5c6" keyPath="C:\Users\terehov\.ssh\id_rsa" port="3022" nameFormat="DESCRIPTIVE" username="177035-42818" />
+    </configs>
+  </component>
+</project>
